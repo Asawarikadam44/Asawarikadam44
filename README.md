@@ -10,7 +10,7 @@ About Me:
 
 🔍 With a keen interest in data engineering, I am eager to explore new opportunities to apply my skills, tackle challenges, and contribute to impactful projects in the field of data analytics. Connect with me on LinkedIn to learn more about my journey and aspirations!
 
-📫 How to reach me: @[LinkedIn](www.linkedin.com/in/asawari-kadam44)
+📫 How to reach me: @[LinkedIn](https://www.linkedin.com/in/asawari-kadam44)
 
 TECHNICAL SKILLS:
 -------------------------------------------------------------------
